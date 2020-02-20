@@ -1,5 +1,3 @@
-<html>
-<body>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8,6 +6,10 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>Lolo</th>
+      <td>-999783</td>
+    </tr>
     <tr>
       <th>Jensen</th>
       <td>-394.55</td>
@@ -45,14 +47,8 @@
       <td>173.483</td>
     </tr>
     <tr>
-      <th>Lolo</th>
-      <td>217.066</td>
-    </tr>
-    <tr>
       <th>Debby</th>
       <td>388.016</td>
     </tr>
   </tbody>
 </table>
-</body>
-</html>
