@@ -1,6 +1,3 @@
----
-layout: page
----
 <html>
 <body>
 <table border="1" class="dataframe">
