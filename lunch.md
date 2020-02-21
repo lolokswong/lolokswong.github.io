@@ -16,11 +16,11 @@
     </tr>
     <tr>
       <th>Samson</th>
-      <td>-92.9671</td>
+      <td>-92.97</td>
     </tr>
     <tr>
       <th>Sammy</th>
-      <td>-52.3384</td>
+      <td>-52.34</td>
     </tr>
     <tr>
       <th>Dickson</th>
@@ -28,27 +28,27 @@
     </tr>
     <tr>
       <th>Vian</th>
-      <td>-3.81667</td>
+      <td>-3.82</td>
     </tr>
     <tr>
       <th>Sammas</th>
-      <td>37.6604</td>
+      <td>37.66</td>
     </tr>
     <tr>
       <th>Terry</th>
-      <td>106.544</td>
+      <td>106.54</td>
     </tr>
     <tr>
       <th>Nathan</th>
-      <td>173.483</td>
+      <td>173.48</td>
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>217.066</td>
+      <td>217.07</td>
     </tr>
     <tr>
       <th>Debby</th>
-      <td>388.016</td>
+      <td>388.02</td>
     </tr>
   </tbody>
 </table>
