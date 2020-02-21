@@ -1,4 +1,3 @@
-<H1>Last update:</H1>2020-02-21 09:20:55.268781
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -52,4 +51,4 @@
       <td>388.02</td>
     </tr>
   </tbody>
-</table>
+</table><H1>Last update:</H1>2020-02-21 12:14:17.708992
