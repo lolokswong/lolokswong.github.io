@@ -7,16 +7,16 @@
   </thead>
   <tbody>
     <tr>
-      <th>Vian</th>
-      <td>-147.82</td>
+      <th>Lolo</th>
+      <td>-154.93</td>
     </tr>
     <tr>
       <th>Terry</th>
       <td>-105.46</td>
     </tr>
     <tr>
-      <th>Lolo</th>
-      <td>-98.93</td>
+      <th>Vian</th>
+      <td>-91.82</td>
     </tr>
     <tr>
       <th>Sammas</th>
@@ -51,4 +51,4 @@
       <td>151.03</td>
     </tr>
   </tbody>
-</table><H1>Last update:</H1>2020-03-02 14:25:03.394985
+</table><H1>Last update:</H1>2020-03-02 17:05:02.553342
