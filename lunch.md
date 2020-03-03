@@ -11,44 +11,44 @@
       <td>-157.46</td>
     </tr>
     <tr>
-      <th>Lolo</th>
-      <td>-154.93</td>
-    </tr>
-    <tr>
       <th>Sammas</th>
       <td>-120.34</td>
     </tr>
     <tr>
       <th>Nathan</th>
-      <td>-48.52</td>
+      <td>-106.52</td>
+    </tr>
+    <tr>
+      <th>Jensen</th>
+      <td>-43.55</td>
     </tr>
     <tr>
       <th>Dickson</th>
       <td>-38</td>
     </tr>
     <tr>
-      <th>Jensen</th>
-      <td>4.45</td>
+      <th>Debby</th>
+      <td>41.02</td>
+    </tr>
+    <tr>
+      <th>Samson</th>
+      <td>49.03</td>
+    </tr>
+    <tr>
+      <th>Vian</th>
+      <td>54.18</td>
     </tr>
     <tr>
       <th>Roy</th>
       <td>57.9</td>
     </tr>
     <tr>
-      <th>Debby</th>
-      <td>89.02</td>
-    </tr>
-    <tr>
-      <th>Samson</th>
-      <td>97.03</td>
-    </tr>
-    <tr>
-      <th>Vian</th>
-      <td>122.18</td>
-    </tr>
-    <tr>
       <th>Sammy</th>
-      <td>148.66</td>
+      <td>95.66</td>
+    </tr>
+    <tr>
+      <th>Lolo</th>
+      <td>168.07</td>
     </tr>
   </tbody>
-</table><H1>Last update:</H1>2020-03-03 12:30:02.502525
+</table><H1>Last update:</H1>2020-03-03 13:35:02.842561
