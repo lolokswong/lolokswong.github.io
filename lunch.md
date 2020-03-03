@@ -23,12 +23,12 @@
       <td>-48.52</td>
     </tr>
     <tr>
-      <th>Jensen</th>
-      <td>-47.55</td>
-    </tr>
-    <tr>
       <th>Dickson</th>
       <td>-38</td>
+    </tr>
+    <tr>
+      <th>Jensen</th>
+      <td>4.45</td>
     </tr>
     <tr>
       <th>Roy</th>
@@ -43,12 +43,12 @@
       <td>97.03</td>
     </tr>
     <tr>
+      <th>Vian</th>
+      <td>122.18</td>
+    </tr>
+    <tr>
       <th>Sammy</th>
       <td>148.66</td>
     </tr>
-    <tr>
-      <th>Vian</th>
-      <td>174.18</td>
-    </tr>
   </tbody>
-</table><H1>Last update:</H1>2020-03-02 17:10:02.996308
+</table><H1>Last update:</H1>2020-03-03 09:35:02.848621
