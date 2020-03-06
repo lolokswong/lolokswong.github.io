@@ -7,20 +7,20 @@
   </thead>
   <tbody>
     <tr>
-      <th>Nathan</th>
-      <td>-208.52</td>
-    </tr>
-    <tr>
       <th>Sammas</th>
       <td>-120.34</td>
     </tr>
     <tr>
       <th>Debby</th>
-      <td>-60.98</td>
+      <td>-112.98</td>
     </tr>
     <tr>
       <th>Samson</th>
-      <td>-50.97</td>
+      <td>-99.97</td>
+    </tr>
+    <tr>
+      <th>Nathan</th>
+      <td>-58.52</td>
     </tr>
     <tr>
       <th>Dickson</th>
@@ -44,11 +44,11 @@
     </tr>
     <tr>
       <th>Terry</th>
-      <td>143.54</td>
+      <td>94.54</td>
     </tr>
     <tr>
       <th>Jensen</th>
       <td>208.45</td>
     </tr>
   </tbody>
-</table><H1>Last update:</H1>2020-03-06 12:05:09.199175
+</table><H1>Last update:</H1>2020-03-06 13:40:05.242723
