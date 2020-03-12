@@ -11,12 +11,16 @@
       <td>-221.47</td>
     </tr>
     <tr>
+      <th>Lolo</th>
+      <td>-204.83</td>
+    </tr>
+    <tr>
       <th>Vian</th>
       <td>-194.72</td>
     </tr>
     <tr>
-      <th>Lolo</th>
-      <td>-136.83</td>
+      <th>Nathan</th>
+      <td>-79.42</td>
     </tr>
     <tr>
       <th>Terry</th>
@@ -27,16 +31,8 @@
       <td>-38</td>
     </tr>
     <tr>
-      <th>Nathan</th>
-      <td>-11.42</td>
-    </tr>
-    <tr>
       <th>Roy</th>
       <td>4</td>
-    </tr>
-    <tr>
-      <th>Jensen</th>
-      <td>50.55</td>
     </tr>
     <tr>
       <th>Debby</th>
@@ -47,12 +43,12 @@
       <td>154.16</td>
     </tr>
     <tr>
+      <th>Jensen</th>
+      <td>186.55</td>
+    </tr>
+    <tr>
       <th>Sammy</th>
       <td>350.96</td>
     </tr>
-    <tr>
-      <th>Unnamed: 20</th>
-      <td>NaN</td>
-    </tr>
   </tbody>
-</table><H1>Last update:</H1>2020-03-12 12:25:04.526487
+</table><H1>Last update:</H1>2020-03-12 13:40:03.128307
