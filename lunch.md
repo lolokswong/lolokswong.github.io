@@ -15,16 +15,12 @@
       <td>-260.83</td>
     </tr>
     <tr>
-      <th>Samson</th>
-      <td>-164.47</td>
-    </tr>
-    <tr>
       <th>Nathan</th>
-      <td>-79.42</td>
+      <td>-133.42</td>
     </tr>
     <tr>
       <th>Terry</th>
-      <td>-63.36</td>
+      <td>-115.36</td>
     </tr>
     <tr>
       <th>Roy</th>
@@ -36,11 +32,15 @@
     </tr>
     <tr>
       <th>Debby</th>
-      <td>51.12</td>
+      <td>3.12</td>
     </tr>
     <tr>
       <th>Sammas</th>
-      <td>106.16</td>
+      <td>42.16</td>
+    </tr>
+    <tr>
+      <th>Samson</th>
+      <td>105.53</td>
     </tr>
     <tr>
       <th>Sammy</th>
@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <th>Jensen</th>
-      <td>412.55</td>
+      <td>360.55</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-03-13 13:35:04.163634
+</table><H1>Last update:</h1><br>2020-03-16 10:45:03.457346
