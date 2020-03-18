@@ -31,6 +31,10 @@
       <td>-38</td>
     </tr>
     <tr>
+      <th>Vian</th>
+      <td>35.28</td>
+    </tr>
+    <tr>
       <th>Sammas</th>
       <td>42.16</td>
     </tr>
@@ -39,16 +43,12 @@
       <td>57.53</td>
     </tr>
     <tr>
-      <th>Vian</th>
-      <td>85.28</td>
-    </tr>
-    <tr>
       <th>Sammy</th>
       <td>300.96</td>
     </tr>
     <tr>
       <th>Jensen</th>
-      <td>310.55</td>
+      <td>360.55</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-03-17 14:05:03.016093
+</table><H1>Last update:</h1><br>2020-03-18 13:35:03.231567
