@@ -8,47 +8,47 @@
   <tbody>
     <tr>
       <th>Nathan</th>
-      <td>-260.94</td>
-    </tr>
-    <tr>
-      <th>Terry</th>
-      <td>-231.98</td>
+      <td>-312.94</td>
     </tr>
     <tr>
       <th>Debby</th>
-      <td>-115.61</td>
+      <td>-167.61</td>
     </tr>
     <tr>
       <th>Roy</th>
-      <td>-52</td>
+      <td>-100</td>
+    </tr>
+    <tr>
+      <th>Sammas</th>
+      <td>-87.56</td>
+    </tr>
+    <tr>
+      <th>Vian</th>
+      <td>-81.44</td>
+    </tr>
+    <tr>
+      <th>Samson</th>
+      <td>-71.99</td>
     </tr>
     <tr>
       <th>Dickson</th>
       <td>-38</td>
     </tr>
     <tr>
-      <th>Vian</th>
-      <td>-33.44</td>
-    </tr>
-    <tr>
-      <th>Sammas</th>
-      <td>-26.56</td>
-    </tr>
-    <tr>
-      <th>Samson</th>
-      <td>-19.99</td>
-    </tr>
-    <tr>
       <th>Lolo</th>
-      <td>185.74</td>
+      <td>129.74</td>
     </tr>
     <tr>
       <th>Jensen</th>
-      <td>291.82</td>
+      <td>235.82</td>
     </tr>
     <tr>
       <th>Sammy</th>
-      <td>300.96</td>
+      <td>244.96</td>
+    </tr>
+    <tr>
+      <th>Terry</th>
+      <td>249.02</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-03-18 14:40:03.029487
+</table><H1>Last update:</h1><br>2020-03-19 13:40:03.608090
