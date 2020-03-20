@@ -8,7 +8,7 @@
   <tbody>
     <tr>
       <th>Nathan</th>
-      <td>-380.94</td>
+      <td>-372.94</td>
     </tr>
     <tr>
       <th>Sammas</th>
@@ -36,11 +36,11 @@
     </tr>
     <tr>
       <th>Debby</th>
-      <td>168.39</td>
+      <td>156.39</td>
     </tr>
     <tr>
       <th>Sammy</th>
-      <td>176.96</td>
+      <td>180.96</td>
     </tr>
     <tr>
       <th>Terry</th>
@@ -51,4 +51,4 @@
       <td>235.82</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-03-20 14:25:03.825707
+</table><H1>Last update:</h1><br>2020-03-20 14:30:02.674589
