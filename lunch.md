@@ -32,23 +32,23 @@
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>81.74</td>
+      <td>-0.26</td>
     </tr>
     <tr>
       <th>Debby</th>
-      <td>156.39</td>
+      <td>84.39</td>
     </tr>
     <tr>
       <th>Sammy</th>
-      <td>180.96</td>
+      <td>98.96</td>
+    </tr>
+    <tr>
+      <th>Jensen</th>
+      <td>153.82</td>
     </tr>
     <tr>
       <th>Terry</th>
       <td>197.02</td>
     </tr>
-    <tr>
-      <th>Jensen</th>
-      <td>235.82</td>
-    </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-03-23 09:50:13.405496
+</table><H1>Last update:</h1><br>2020-03-23 13:40:08.018820
