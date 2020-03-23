@@ -31,10 +31,6 @@
       <td>-38</td>
     </tr>
     <tr>
-      <th>Lolo</th>
-      <td>-0.26</td>
-    </tr>
-    <tr>
       <th>Debby</th>
       <td>84.39</td>
     </tr>
@@ -50,5 +46,9 @@
       <th>Terry</th>
       <td>197.02</td>
     </tr>
+    <tr>
+      <th>Lolo</th>
+      <td>317.74</td>
+    </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-03-23 13:40:08.018820
+</table><H1>Last update:</h1><br>2020-03-23 14:10:05.955724
