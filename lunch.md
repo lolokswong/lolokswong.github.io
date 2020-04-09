@@ -32,11 +32,11 @@
     </tr>
     <tr>
       <th>Jensen</th>
-      <td>-3.18</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>11.74</td>
+      <td>8.56</td>
     </tr>
     <tr>
       <th>Terry</th>
@@ -51,4 +51,4 @@
       <td>194.391</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-04-07 13:50:03.324196
+</table><H1>Last update:</h1><br>2020-04-09 11:35:03.447684
