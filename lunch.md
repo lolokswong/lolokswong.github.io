@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <th>Sammas</th>
-      <td>-135.565</td>
+      <td>-201.565</td>
     </tr>
     <tr>
       <th>Samson</th>
@@ -35,20 +35,20 @@
       <td>0</td>
     </tr>
     <tr>
+      <th>Nathan</th>
+      <td>100.058</td>
+    </tr>
+    <tr>
       <th>Lolo</th>
-      <td>8.56</td>
+      <td>126.56</td>
     </tr>
     <tr>
       <th>Debby</th>
       <td>150.391</td>
     </tr>
     <tr>
-      <th>Nathan</th>
-      <td>152.058</td>
-    </tr>
-    <tr>
       <th>Terry</th>
       <td>182.02</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-04-09 13:20:02.667557
+</table><H1>Last update:</h1><br>2020-04-14 13:25:02.922008
