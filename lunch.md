@@ -7,12 +7,12 @@
   </thead>
   <tbody>
     <tr>
-      <th>Roy</th>
-      <td>-207</td>
+      <th>Sammas</th>
+      <td>-262.56</td>
     </tr>
     <tr>
-      <th>Sammas</th>
-      <td>-201.565</td>
+      <th>Roy</th>
+      <td>-207</td>
     </tr>
     <tr>
       <th>Samson</th>
@@ -23,16 +23,12 @@
       <td>-38</td>
     </tr>
     <tr>
-      <th>Sammy</th>
-      <td>-36.0384</td>
-    </tr>
-    <tr>
       <th>Vian</th>
       <td>-21.44</td>
     </tr>
     <tr>
-      <th>Jensen</th>
-      <td>0</td>
+      <th>Sammy</th>
+      <td>24.96</td>
     </tr>
     <tr>
       <th>Nathan</th>
@@ -51,4 +47,4 @@
       <td>182.02</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-04-14 13:25:02.922008
+</table><H1>Last update:</h1><br>2020-04-15 09:30:03.117302
