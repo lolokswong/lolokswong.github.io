@@ -8,43 +8,43 @@
   <tbody>
     <tr>
       <th>Sammas</th>
-      <td>-203.66</td>
+      <td>-308.66</td>
     </tr>
     <tr>
-      <th>Debby</th>
-      <td>-193.71</td>
+      <th>Samson</th>
+      <td>-196.89</td>
     </tr>
     <tr>
       <th>Nathan</th>
       <td>-119.94</td>
     </tr>
     <tr>
-      <th>Samson</th>
-      <td>-91.89</td>
+      <th>Lolo</th>
+      <td>-56.74</td>
     </tr>
     <tr>
       <th>Dickson</th>
       <td>-38</td>
     </tr>
     <tr>
-      <th>Lolo</th>
-      <td>49.26</td>
+      <th>Debby</th>
+      <td>9.29</td>
+    </tr>
+    <tr>
+      <th>Vian</th>
+      <td>71.66</td>
     </tr>
     <tr>
       <th>Roy</th>
       <td>115</td>
     </tr>
     <tr>
-      <th>Vian</th>
-      <td>127.66</td>
+      <th>Sammy</th>
+      <td>173.06</td>
     </tr>
     <tr>
       <th>Terry</th>
-      <td>130.22</td>
-    </tr>
-    <tr>
-      <th>Sammy</th>
-      <td>225.06</td>
+      <td>351.22</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-05-12 12:29:08.368099
+</table><H1>Last update:</h1><br>2020-05-13 13:47:12.010259
