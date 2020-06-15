@@ -8,7 +8,7 @@
   <tbody>
     <tr>
       <th>Vian</th>
-      <td>-282.14</td>
+      <td>-277.14</td>
     </tr>
     <tr>
       <th>Samson</th>
@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>153.96</td>
+      <td>143.96</td>
     </tr>
     <tr>
       <th>Terry</th>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <th>Sammas</th>
-      <td>257.34</td>
+      <td>262.34</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-06-15 13:24:27.463965
+</table><H1>Last update:</h1><br>2020-06-15 13:29:19.278446
