@@ -15,12 +15,12 @@
       <td>-212.39</td>
     </tr>
     <tr>
-      <th>Sammy</th>
-      <td>-122.74</td>
+      <th>Debby</th>
+      <td>-131.01</td>
     </tr>
     <tr>
-      <th>Debby</th>
-      <td>-79.01</td>
+      <th>Sammy</th>
+      <td>-122.74</td>
     </tr>
     <tr>
       <th>Dickson</th>
@@ -39,12 +39,12 @@
       <td>143.96</td>
     </tr>
     <tr>
-      <th>Terry</th>
-      <td>225.42</td>
-    </tr>
-    <tr>
       <th>Sammas</th>
       <td>262.34</td>
     </tr>
+    <tr>
+      <th>Terry</th>
+      <td>277.42</td>
+    </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-06-15 13:29:19.278446
+</table><H1>Last update:</h1><br>2020-06-16 13:04:08.647291
