@@ -11,10 +11,6 @@
       <td>-254.74</td>
     </tr>
     <tr>
-      <th>Debby</th>
-      <td>-137.01</td>
-    </tr>
-    <tr>
       <th>Roy</th>
       <td>-94.5</td>
     </tr>
@@ -23,28 +19,32 @@
       <td>-38</td>
     </tr>
     <tr>
-      <th>Samson</th>
-      <td>56.61</td>
-    </tr>
-    <tr>
       <th>Vian</th>
-      <td>56.86</td>
+      <td>-3.14</td>
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>56.96</td>
+      <td>0.96</td>
+    </tr>
+    <tr>
+      <th>Samson</th>
+      <td>4.61</td>
     </tr>
     <tr>
       <th>Terry</th>
-      <td>61.42</td>
+      <td>9.42</td>
     </tr>
     <tr>
       <th>Nathan</th>
-      <td>96.06</td>
+      <td>44.06</td>
     </tr>
     <tr>
       <th>Sammas</th>
-      <td>196.34</td>
+      <td>130.34</td>
+    </tr>
+    <tr>
+      <th>Debby</th>
+      <td>200.99</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-06-26 14:39:11.541680
+</table><H1>Last update:</h1><br>2020-06-29 13:49:08.811690
