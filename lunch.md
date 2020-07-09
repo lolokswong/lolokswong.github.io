@@ -15,10 +15,6 @@
       <td>-178.942</td>
     </tr>
     <tr>
-      <th>Vian</th>
-      <td>-162.142</td>
-    </tr>
-    <tr>
       <th>Roy</th>
       <td>-150.5</td>
     </tr>
@@ -39,12 +35,16 @@
       <td>43.96</td>
     </tr>
     <tr>
+      <th>Vian</th>
+      <td>151.86</td>
+    </tr>
+    <tr>
       <th>Samson</th>
-      <td>256.608</td>
+      <td>203.608</td>
     </tr>
     <tr>
       <th>Terry</th>
-      <td>270.419</td>
+      <td>217.419</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-07-08 15:54:16.984376
+</table><H1>Last update:</h1><br>2020-07-09 11:19:08.081849
