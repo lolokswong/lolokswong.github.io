@@ -7,10 +7,6 @@
   </thead>
   <tbody>
     <tr>
-      <th>Debby</th>
-      <td>-170.31</td>
-    </tr>
-    <tr>
       <th>Nathan</th>
       <td>-155.59</td>
     </tr>
@@ -31,6 +27,10 @@
       <td>-8.64</td>
     </tr>
     <tr>
+      <th>Debby</th>
+      <td>0.69</td>
+    </tr>
+    <tr>
       <th>Roy</th>
       <td>15.90</td>
     </tr>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <th>Terry</th>
-      <td>342.77</td>
+      <td>171.77</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-08-20 12:34:08.117252
+</table><H1>Last update:</h1><br>2020-08-20 12:39:08.528576
