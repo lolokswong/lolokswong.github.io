@@ -19,8 +19,8 @@
       <td>-38.00</td>
     </tr>
     <tr>
-      <th>Vian</th>
-      <td>-13.24</td>
+      <th>Nathan</th>
+      <td>-24.89</td>
     </tr>
     <tr>
       <th>Debby</th>
@@ -31,8 +31,8 @@
       <td>-7.50</td>
     </tr>
     <tr>
-      <th>Nathan</th>
-      <td>25.26</td>
+      <th>Vian</th>
+      <td>36.91</td>
     </tr>
     <tr>
       <th>Samson</th>
@@ -47,4 +47,4 @@
       <td>93.26</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-09-02 13:59:10.642647
+</table><H1>Last update:</h1><br>2020-09-02 14:04:15.428213
