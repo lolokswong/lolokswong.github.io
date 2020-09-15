@@ -7,44 +7,44 @@
   </thead>
   <tbody>
     <tr>
-      <th>Sammy</th>
-      <td>-118.74</td>
+      <th>Vian</th>
+      <td>-160.81</td>
     </tr>
     <tr>
-      <th>Roy</th>
-      <td>-110.90</td>
+      <th>Sammy</th>
+      <td>-155.14</td>
     </tr>
     <tr>
       <th>Samson</th>
-      <td>-80.34</td>
+      <td>-107.64</td>
     </tr>
     <tr>
       <th>Debby</th>
-      <td>-75.06</td>
+      <td>-102.38</td>
     </tr>
     <tr>
-      <th>Vian</th>
-      <td>-64.09</td>
+      <th>Roy</th>
+      <td>-101.78</td>
     </tr>
     <tr>
       <th>Dickson</th>
       <td>-38.00</td>
     </tr>
     <tr>
-      <th>Terry</th>
-      <td>-16.73</td>
+      <th>Nathan</th>
+      <td>112.24</td>
     </tr>
     <tr>
       <th>Sammas</th>
-      <td>129.64</td>
-    </tr>
-    <tr>
-      <th>Nathan</th>
-      <td>149.21</td>
+      <td>138.74</td>
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>225.01</td>
+      <td>185.81</td>
+    </tr>
+    <tr>
+      <th>Terry</th>
+      <td>228.97</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-09-15 12:29:12.674631
+</table><H1>Last update:</h1><br>2020-09-15 13:04:07.039104
