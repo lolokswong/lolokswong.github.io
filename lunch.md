@@ -11,12 +11,12 @@
       <td>-269.81</td>
     </tr>
     <tr>
-      <th>Terry</th>
-      <td>-128.63</td>
+      <th>Lolo</th>
+      <td>-147.39</td>
     </tr>
     <tr>
-      <th>Lolo</th>
-      <td>-95.39</td>
+      <th>Terry</th>
+      <td>-128.63</td>
     </tr>
     <tr>
       <th>Dickson</th>
@@ -47,4 +47,4 @@
       <td>202.24</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-10-06 10:54:08.322359
+</table><H1>Last update:</h1><br>2020-10-07 09:44:12.722912
