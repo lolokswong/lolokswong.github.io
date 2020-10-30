@@ -11,12 +11,8 @@
       <td>-147.79</td>
     </tr>
     <tr>
-      <th>Samson</th>
-      <td>-58.74</td>
-    </tr>
-    <tr>
       <th>Vian</th>
-      <td>-55.91</td>
+      <td>-111.91</td>
     </tr>
     <tr>
       <th>Sammy</th>
@@ -32,7 +28,11 @@
     </tr>
     <tr>
       <th>Terry</th>
-      <td>54.67</td>
+      <td>1.67</td>
+    </tr>
+    <tr>
+      <th>Samson</th>
+      <td>50.26</td>
     </tr>
     <tr>
       <th>Sammas</th>
@@ -47,4 +47,4 @@
       <td>202.24</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-10-28 13:14:08.334163
+</table><H1>Last update:</h1><br>2020-10-30 11:54:07.468099
