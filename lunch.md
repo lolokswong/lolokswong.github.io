@@ -7,12 +7,12 @@
   </thead>
   <tbody>
     <tr>
-      <th>Sammy</th>
-      <td>-163.14</td>
-    </tr>
-    <tr>
       <th>Terry</th>
       <td>-105.33</td>
+    </tr>
+    <tr>
+      <th>Sammy</th>
+      <td>-105.14</td>
     </tr>
     <tr>
       <th>Debby</th>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>71.21</td>
+      <td>13.21</td>
     </tr>
     <tr>
       <th>Roy</th>
@@ -47,4 +47,4 @@
       <td>202.24</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-11-03 12:09:10.626854
+</table><H1>Last update:</h1><br>2020-11-03 13:34:21.045482
