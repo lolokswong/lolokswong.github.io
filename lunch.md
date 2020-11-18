@@ -7,20 +7,16 @@
   </thead>
   <tbody>
     <tr>
-      <th>Vian</th>
-      <td>-216.91</td>
-    </tr>
-    <tr>
       <th>Sammas</th>
-      <td>-88.26</td>
+      <td>-159.76</td>
     </tr>
     <tr>
       <th>Samson</th>
-      <td>-52.74</td>
+      <td>-124.24</td>
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>-42.79</td>
+      <td>-114.29</td>
     </tr>
     <tr>
       <th>Dickson</th>
@@ -29,6 +25,10 @@
     <tr>
       <th>Sammy</th>
       <td>-28.14</td>
+    </tr>
+    <tr>
+      <th>Vian</th>
+      <td>-2.41</td>
     </tr>
     <tr>
       <th>Terry</th>
@@ -47,4 +47,4 @@
       <td>202.24</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-11-17 16:34:11.033295
+</table><H1>Last update:</h1><br>2020-11-18 13:24:18.344506
