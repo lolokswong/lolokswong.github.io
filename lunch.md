@@ -8,7 +8,7 @@
   <tbody>
     <tr>
       <th>Sammy</th>
-      <td>-1461.42</td>
+      <td>-1506.52</td>
     </tr>
     <tr>
       <th>Lolo</th>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <th>Terry</th>
-      <td>388.87</td>
+      <td>433.97</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-12-16 12:14:09.345222
+</table><H1>Last update:</h1><br>2020-12-16 12:24:11.586631
