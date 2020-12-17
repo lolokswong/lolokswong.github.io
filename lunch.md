@@ -47,4 +47,4 @@
       <td>433.97</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-12-16 12:24:11.586631
+</table><H1>Last update:</h1><br>2020-12-17 10:59:14.004658
