@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <th>Samson</th>
-      <td>162.63</td>
+      <td>117.53</td>
     </tr>
     <tr>
       <th>Debby</th>
@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <th>Sammas</th>
-      <td>278.56</td>
+      <td>228.36</td>
     </tr>
     <tr>
       <th>Nathan</th>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <th>Terry</th>
-      <td>433.97</td>
+      <td>529.27</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-12-17 10:59:14.004658
+</table><H1>Last update:</h1><br>2020-12-22 08:49:09.147229
