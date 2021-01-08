@@ -7,36 +7,36 @@
   </thead>
   <tbody>
     <tr>
-      <th>Sammy</th>
-      <td>-670.92</td>
-    </tr>
-    <tr>
-      <th>Terry</th>
-      <td>-110.63</td>
+      <th>Debby</th>
+      <td>-238.08</td>
     </tr>
     <tr>
       <th>Roy</th>
-      <td>-58.26</td>
+      <td>-148.46</td>
+    </tr>
+    <tr>
+      <th>Samson</th>
+      <td>-131.57</td>
+    </tr>
+    <tr>
+      <th>Terry</th>
+      <td>-98.13</td>
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>-42.57</td>
+      <td>-89.37</td>
     </tr>
     <tr>
       <th>Dickson</th>
       <td>-38.00</td>
     </tr>
     <tr>
-      <th>Debby</th>
-      <td>21.12</td>
-    </tr>
-    <tr>
-      <th>Samson</th>
-      <td>117.53</td>
-    </tr>
-    <tr>
       <th>Vian</th>
-      <td>193.04</td>
+      <td>93.84</td>
+    </tr>
+    <tr>
+      <th>Sammy</th>
+      <td>181.08</td>
     </tr>
     <tr>
       <th>Sammas</th>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <th>Nathan</th>
-      <td>360.34</td>
+      <td>240.34</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2020-12-24 14:54:11.535410
+</table><H1>Last update:</h1><br>2021-01-08 13:45:58.664836
