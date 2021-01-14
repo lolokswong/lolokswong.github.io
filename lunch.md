@@ -7,16 +7,16 @@
   </thead>
   <tbody>
     <tr>
-      <th>Samson</th>
-      <td>-227.57</td>
+      <th>Lolo</th>
+      <td>-245.37</td>
     </tr>
     <tr>
       <th>Terry</th>
       <td>-193.13</td>
     </tr>
     <tr>
-      <th>Lolo</th>
-      <td>-187.37</td>
+      <th>Samson</th>
+      <td>-169.57</td>
     </tr>
     <tr>
       <th>Roy</th>
@@ -47,4 +47,4 @@
       <td>240.34</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2021-01-13 14:04:09.184106
+</table><H1>Last update:</h1><br>2021-01-14 17:29:15.894857
