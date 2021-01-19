@@ -8,7 +8,7 @@
   <tbody>
     <tr>
       <th>Roy</th>
-      <td>-148.46</td>
+      <td>-208.46</td>
     </tr>
     <tr>
       <th>Samson</th>
@@ -23,14 +23,6 @@
       <td>-36.37</td>
     </tr>
     <tr>
-      <th>Vian</th>
-      <td>-19.16</td>
-    </tr>
-    <tr>
-      <th>Terry</th>
-      <td>-12.13</td>
-    </tr>
-    <tr>
       <th>Sammy</th>
       <td>22.08</td>
     </tr>
@@ -39,12 +31,20 @@
       <td>28.92</td>
     </tr>
     <tr>
+      <th>Vian</th>
+      <td>40.84</td>
+    </tr>
+    <tr>
+      <th>Terry</th>
+      <td>48.87</td>
+    </tr>
+    <tr>
       <th>Sammas</th>
-      <td>129.36</td>
+      <td>68.36</td>
     </tr>
     <tr>
       <th>Nathan</th>
       <td>188.34</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2021-01-19 13:34:11.665572
+</table><H1>Last update:</h1><br>2021-01-19 13:59:10.594616
