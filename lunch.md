@@ -15,16 +15,12 @@
       <td>-114.57</td>
     </tr>
     <tr>
+      <th>Lolo</th>
+      <td>-86.37</td>
+    </tr>
+    <tr>
       <th>Dickson</th>
       <td>-38.00</td>
-    </tr>
-    <tr>
-      <th>Lolo</th>
-      <td>-36.37</td>
-    </tr>
-    <tr>
-      <th>Sammy</th>
-      <td>22.08</td>
     </tr>
     <tr>
       <th>Debby</th>
@@ -43,8 +39,12 @@
       <td>68.36</td>
     </tr>
     <tr>
+      <th>Sammy</th>
+      <td>72.08</td>
+    </tr>
+    <tr>
       <th>Nathan</th>
       <td>188.34</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2021-01-19 13:59:10.594616
+</table><H1>Last update:</h1><br>2021-01-21 13:29:14.242814
