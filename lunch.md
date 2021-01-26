@@ -15,10 +15,6 @@
       <td>-71.08</td>
     </tr>
     <tr>
-      <th>Terry</th>
-      <td>-59.13</td>
-    </tr>
-    <tr>
       <th>Sammas</th>
       <td>-57.64</td>
     </tr>
@@ -28,7 +24,11 @@
     </tr>
     <tr>
       <th>Lolo</th>
-      <td>18.63</td>
+      <td>-31.57</td>
+    </tr>
+    <tr>
+      <th>Terry</th>
+      <td>-8.93</td>
     </tr>
     <tr>
       <th>Vian</th>
@@ -47,4 +47,4 @@
       <td>219.08</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2021-01-26 12:24:13.201293
+</table><H1>Last update:</h1><br>2021-01-26 17:14:11.399677
