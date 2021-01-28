@@ -11,24 +11,24 @@
       <td>-262.46</td>
     </tr>
     <tr>
+      <th>Sammas</th>
+      <td>-107.84</td>
+    </tr>
+    <tr>
       <th>Lolo</th>
       <td>-83.57</td>
     </tr>
     <tr>
-      <th>Terry</th>
-      <td>-60.93</td>
-    </tr>
-    <tr>
-      <th>Sammas</th>
-      <td>-57.64</td>
+      <th>Vian</th>
+      <td>-52.26</td>
     </tr>
     <tr>
       <th>Dickson</th>
       <td>-38.00</td>
     </tr>
     <tr>
-      <th>Vian</th>
-      <td>-7.16</td>
+      <th>Terry</th>
+      <td>34.37</td>
     </tr>
     <tr>
       <th>Nathan</th>
@@ -47,4 +47,4 @@
       <td>219.08</td>
     </tr>
   </tbody>
-</table><H1>Last update:</h1><br>2021-01-27 13:59:10.761857
+</table><H1>Last update:</h1><br>2021-01-28 12:29:09.550825
