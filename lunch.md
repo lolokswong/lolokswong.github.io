@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <th>Sammas</th>
-      <td>-30.64</td>
+      <td>-31.64</td>
     </tr>
     <tr>
       <th>Lolo</th>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <th>Samson</th>
-      <td>215.73</td>
+      <td>216.73</td>
     </tr>
   </tbody>
-</table><br></br><h2>Last update:</h2><br></br><sub>2021-03-09 15:57:41.542938</sub>
+</table><br>Last update: 2021-03-09 15:59:39.094582</sub><br>
