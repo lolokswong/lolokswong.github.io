@@ -11,8 +11,12 @@
       <td>-234.76</td>
     </tr>
     <tr>
+      <th>Lolo</th>
+      <td>-63.27</td>
+    </tr>
+    <tr>
       <th>Terry</th>
-      <td>-92.73</td>
+      <td>-44.73</td>
     </tr>
     <tr>
       <th>Dickson</th>
@@ -25,10 +29,6 @@
     <tr>
       <th>Sammas</th>
       <td>-30.64</td>
-    </tr>
-    <tr>
-      <th>Lolo</th>
-      <td>-15.27</td>
     </tr>
     <tr>
       <th>Debby</th>
@@ -47,4 +47,4 @@
       <td>215.73</td>
     </tr>
   </tbody>
-</table><br>Last update: 2021-03-09 16:01:25.120197<br>
+</table><br>Last update: 2021-03-11 10:49:21.393919<br>
