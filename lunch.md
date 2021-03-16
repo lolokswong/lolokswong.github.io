@@ -23,16 +23,16 @@
       <td>-30.64</td>
     </tr>
     <tr>
+      <th>Terry</th>
+      <td>-0.73</td>
+    </tr>
+    <tr>
       <th>Debby</th>
       <td>0.00</td>
     </tr>
     <tr>
       <th>Sammy</th>
       <td>7.68</td>
-    </tr>
-    <tr>
-      <th>Terry</th>
-      <td>55.27</td>
     </tr>
     <tr>
       <th>Samson</th>
@@ -47,4 +47,4 @@
       <td>228.14</td>
     </tr>
   </tbody>
-</table><br>Last update: 2021-03-15 13:34:11.445976<br>
+</table><br>Last update: 2021-03-16 17:19:09.127055<br>
